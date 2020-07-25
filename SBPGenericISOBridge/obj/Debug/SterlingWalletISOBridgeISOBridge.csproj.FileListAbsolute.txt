@@ -1,0 +1,13 @@
+C:\Users\adm_olaniranqr\source\repos\SterlingWalletIsoBridge\SBPGenericISOBridge\bin\Debug\SterlingWalletISOBridge.exe.config
+C:\Users\adm_olaniranqr\source\repos\SterlingWalletIsoBridge\SBPGenericISOBridge\bin\Debug\SterlingWalletISOBridge.exe
+C:\Users\adm_olaniranqr\source\repos\SterlingWalletIsoBridge\SBPGenericISOBridge\bin\Debug\SterlingWalletISOBridge.pdb
+C:\Users\adm_olaniranqr\source\repos\SterlingWalletIsoBridge\SBPGenericISOBridge\bin\Debug\IKVM.OpenJDK.Core.dll
+C:\Users\adm_olaniranqr\source\repos\SterlingWalletIsoBridge\SBPGenericISOBridge\bin\Debug\jpos.dll
+C:\Users\adm_olaniranqr\source\repos\SterlingWalletIsoBridge\SBPGenericISOBridge\bin\Debug\log4net.dll
+C:\Users\adm_olaniranqr\source\repos\SterlingWalletIsoBridge\SBPGenericISOBridge\bin\Debug\Newtonsoft.Json.dll
+C:\Users\adm_olaniranqr\source\repos\SterlingWalletIsoBridge\SBPGenericISOBridge\bin\Debug\log4net.xml
+C:\Users\adm_olaniranqr\source\repos\SterlingWalletIsoBridge\SBPGenericISOBridge\obj\Debug\SterlingWalletISOBridgeISOBridge.csprojAssemblyReference.cache
+C:\Users\adm_olaniranqr\source\repos\SterlingWalletIsoBridge\SBPGenericISOBridge\obj\Debug\SterlingWalletISOBridgeISOBridge.csproj.CoreCompileInputs.cache
+C:\Users\adm_olaniranqr\source\repos\SterlingWalletIsoBridge\SBPGenericISOBridge\obj\Debug\SterlingWalletISOBridgeISOBridge.csproj.CopyComplete
+C:\Users\adm_olaniranqr\source\repos\SterlingWalletIsoBridge\SBPGenericISOBridge\obj\Debug\SterlingWalletISOBridge.exe
+C:\Users\adm_olaniranqr\source\repos\SterlingWalletIsoBridge\SBPGenericISOBridge\obj\Debug\SterlingWalletISOBridge.pdb
